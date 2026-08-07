@@ -122,7 +122,7 @@ supply-chain-delivery-analytics/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/supply-chain-delivery-analytics.git
+git clone https://github.com/krishnaknt5/supply-chain-delivery-analytics.git
 cd supply-chain-delivery-analytics
 
 # Install dependencies
