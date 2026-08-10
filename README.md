@@ -91,7 +91,7 @@ The analysis moves through four layers of maturity:
 
 **Features used:** Order Type, Days for Shipment (scheduled), Category Name, Customer Segment, Department Name, Order Region, Shipping Mode, Order Month, Order Hour
 **Balancing:** SMOTE oversampling on the training set
-**Model:** RandomForestClassifier (scikit-learn, `random_state=42`)
+**Model:** RandomForestClassifier (scikit-learn,`random_state=42`)
 
 ---
 
