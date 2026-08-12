@@ -100,7 +100,7 @@ The analysis moves through four layers of maturity:
 ```
 supply-chain-delivery-analytics/
 │
-├── data/
+├── data.zip/
 │   └── DataCoSupplyChainDataset.csv
 │
 ├── notebook/
